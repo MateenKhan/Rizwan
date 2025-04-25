@@ -4157,3 +4157,9 @@ img.u-pull-left {
         width  : 1.6rem;
     }
 }
+
+    
+.instagram {
+    max-width: 24px;
+    max-height: 24px;
+}
